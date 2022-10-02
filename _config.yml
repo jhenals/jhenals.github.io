@@ -1,4 +1,4 @@
 name: Jhenalyn Lajara, Computer Engineering Student
 markdown: kramdown
-theme: Cayman
+theme: minimal
 permalink: /blog/:year/:month/:day/:title
